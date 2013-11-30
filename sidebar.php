@@ -5,6 +5,6 @@
     </div>
     <nav class="main">
         <a href="<?php echo esc_url( home_url( '/' ) ); ?>" class="current">Home</a>
-        <a href="<?php echo esc_url( home_url( '/' ) ) . 'about'; ?>">About</a>
+        <!-- <a href="<?php echo esc_url( home_url( '/' ) ) . 'about'; ?>">About</a> -->
     </nav>
 </div>
